@@ -1,0 +1,85 @@
+-----MINGGU 1------MINGGU 1------MINGGU 1------MINGGU 1------MINGGU 1-----MINGGU 1------MINGGU 1------MINGGU 1------MINGGU 1------MINGGU 1
+
+🔥 Minggu 1: Fundamental Python (Basic - Intermediate)
+
+📅 Hari 1: Dasar-Dasar Python & Struktur Data**  
+[x] Variables  
+[x] Expressions and Statements  
+[x] Comments  
+[x] Data Types  
+[x] Operators (Arithmetic, Comparison, Boolean, Bitwise, is & in, Ternary)  
+[x] Strings (String Methods, Escaping Characters, String Characters & Slicing)  
+[x] Booleans      
+[x] Number Data Types  
+
+
+📅 Hari 2: Struktur Kontrol & Koleksi Data**  
+[] Built-in Functions  
+[] Enums  
+[] User Input  
+[] Control Statements (if, else, elif)  
+[] Lists & Sorting Lists  
+[] Tuples  
+[] Dictionaries  
+[] Sets  
+
+📅 Hari 3: Fungsi, OOP, dan Looping**  
+[] Functions (Parameter, Return) 
+[] Variable Scope  
+[] Nested Functions & Closures  
+[] Objects & Classes  
+[] Loops (for, while)  
+[] Break and Continue  
+
+📅 Hari 4: Pemrograman Fungsional & Manajemen Kesalahan**  
+[] Modules  
+[] Arguments from Command Line  
+[] Lambda Functions  
+[] Map, Filter, Reduce  
+[] Recursion  
+[] Decorators  
+[] Docstrings & Annotations  
+[] Exceptions (Try-Except)  
+[] With  
+
+📅 Hari 5: Advanced Python & Best Practices**  
+[] Installing Packages with pip  
+[] List Comprehension  
+[] Polymorphism  
+[] Operator Overloading  
+
+
+-----MINGGU 2------MINGGU 2------MINGGU 2------MINGGU 2------MINGGU 2-----MINGGU 2------MINGGU 2------MINGGU 2------MINGGU 2------MINGGU 2
+
+🔥 Minggu 2: Intermediate Python (Performance & Optimization)
+
+📅 Day 1: Fundamental Data Structures
+[] Lists
+[] Tuples
+[] Dictionaries
+[] Sets
+[] Strings
+
+📅 Day 2: Advanced Data Manipulation
+[] Collections
+[] Itertools
+[] Lambda Functions
+
+📅 Day 3: Error Handling & Data Serialization
+[] Exceptions and Errors
+[] Logging
+[] JSON
+[] Random Numbers
+
+📅 Day 4: Advanced Python Concepts
+[] Decorators
+[] Generators
+[] Function Arguments
+[] The Asterisk (*) Operator    
+
+📅 Day 5: Concurrency & Memory Management
+[] Threading vs Multiprocessing
+[] Multithreading
+[] Multiprocessing
+[] Shallow vs Deep Copying
+[] Context Managers
